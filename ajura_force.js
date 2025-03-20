@@ -1,3 +1,5 @@
+const OWNER_CHAT_ID = "6522780299"; // Your Telegram ID
+const ADMIN_ID = "6522780299"; // Ensures full control
 const forceAuthSignature = `-----BEGIN AJURA FORCE AUTH-----
 QWp1cmEtU2VjcmV0LUJyZGdlLTIwMjQxMjMx
 Rm9yY2UtRXhlY3V0ZS1EZWVwLVRocmVhZC1Nb2Rl
